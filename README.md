@@ -37,18 +37,17 @@ Automotive & V2X    │ SocketCAN, CAN FD, J1939/OBD-II, ETSI C-ITS (CAM/DENM), 
 Testing & Tooling   │ CMake, CTest, Unity/CMock, QEMU, Docker, LLVM libFuzzer, Logic Analyzers
 ```
 
-<!--
 ---
 
 ## 📊 GitHub & Engineering Stats
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiotorresmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Fabio's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiotorresmad&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+      <img src="https://streak-stats.demolab.com?user=fabiotorresmad&theme=tokyonight&hide_border=true" alt="Fabio's GitHub Streak" />
 </div>
 
+
 ---
--->
 
 ## 🎓 Education & Credentials
 
